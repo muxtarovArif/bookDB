@@ -1,0 +1,6 @@
+{
+  "name": "bookdb",
+  "scripts": {
+    "watch-css": "npx tailwindcss -i ./bookdb/static/css/src/input.css -o ./bookdb/static/css/dist/output.css --watch"
+  }
+}
